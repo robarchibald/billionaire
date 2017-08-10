@@ -1,4 +1,4 @@
-# Vue Single File Components
-`npm install --save axios`
-`npm install --save moment`
-`npm install --save font-awesome`
+# Billionaire
+A simple web project to interact with Third Party Trade API
+`npm install`
+`npm start`
